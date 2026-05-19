@@ -60,6 +60,16 @@ Soy desarrollador Full Stack con experiencia tanto en Frontend como en Backend. 
 
 ---
 
+## 🎓 Certificaciones — UTN Buenos Aires
+
+| Certificado | Institución | Verificar |
+|-------------|-------------|-----------|
+| 🏆 Diplomatura de Programación Web Full Stack | UTN BA — SCEU | [![Ver certificado](https://img.shields.io/badge/Ver_Certificado-512BD4?style=flat-square&logo=academia&logoColor=white)](https://sceu.frba.utn.edu.ar/e-learning/panel/document/validator/5c70227e-61bd-41ff-9f91-5c6ebe775ac4) |
+| 🖥️ Curso Backend Developer | UTN BA — SCEU | [![Ver certificado](https://img.shields.io/badge/Ver_Certificado-339933?style=flat-square&logo=academia&logoColor=white)](https://sceu.frba.utn.edu.ar/e-learning/panel/document/validator/8cdd4f4a-504f-4452-80ab-70dbc3e67f57) |
+| 🎨 Curso Front End Developer | UTN BA — Centro de eLearning | [![Ver certificado](https://img.shields.io/badge/Ver_Certificado-E34F26?style=flat-square&logo=academia&logoColor=white)](https://validator.centrodeelearning.com/validator/JHtrV0H5OQ) |
+
+---
+
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
