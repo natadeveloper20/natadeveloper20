@@ -1,4 +1,4 @@
-<div align="center">
+[README.md](https://github.com/user-attachments/files/28082527/README.md)<div align="center">
 
 # Natanael Mendieta
 ### Full Stack Developer · Buenos Aires, Argentina 🇦🇷
@@ -15,9 +15,9 @@
 
 Soy desarrollador Full Stack con experiencia tanto en Frontend como en Backend. Me apasiona construir productos digitales funcionales, limpios y con buena experiencia de usuario. Siempre en busca de nuevos desafíos y aprendizajes.
 
-- 🔭 Actualmente trabajando en proyectos personales y freelance
+- 🔭 Actualmente trabajando en proyectos personales y de estudio
 - 🌱 Mejorando constantemente mis habilidades en arquitectura de software
-- 💬 Hablame de: **JavaScript, .NET, React, Node.js, bases de datos**
+- 💬 Hablame de: **JavaScript, React, Node.js, .NET, bases de datos**
 - 📍 Buenos Aires, Argentina
 
 ---
@@ -32,11 +32,13 @@ Soy desarrollador Full Stack con experiencia tanto en Frontend como en Backend. 
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### Base de datos
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
@@ -49,6 +51,27 @@ Soy desarrollador Full Stack con experiencia tanto en Frontend como en Backend. 
 ---
 
 ## 🚀 Proyectos Destacados
+
+### 🏆 Trabajo Final Integrador — ProjectHub *(UTN Buenos Aires)*
+
+> Aplicación Full Stack completa desarrollada como trabajo final de la Diplomatura en Programación Web Full Stack. Gestor de proyectos y tareas con autenticación segura, arquitectura profesional en capas y deploy público.
+
+| | |
+|---|---|
+| **Frontend** | React 19 + Vite — UI responsiva con Glassmorphism y micro-animaciones |
+| **Backend** | Node.js + Express — Arquitectura en capas (Routes → Controllers → Services → Repositories) |
+| **Base de datos** | MongoDB + Mongoose |
+| **Seguridad** | JWT Bearer token + bcrypt + verificación por email (Nodemailer) |
+| **Middlewares** | CORS, validación de inputs, manejo centralizado de errores, auth JWT |
+
+[![Frontend Repo](https://img.shields.io/badge/Repo_Frontend-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/natadeveloper20/trabajo-final-frontend)
+[![Backend Repo](https://img.shields.io/badge/Repo_Backend-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/natadeveloper20/trabajo-final-backend)
+[![Ver App](https://img.shields.io/badge/Ver_App_en_Vivo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://trabajo-final-frontend-ten.vercel.app)
+[![API](https://img.shields.io/badge/API_en_Producción-339933?style=for-the-badge&logo=render&logoColor=white)](https://projecthub-api-io9r.onrender.com)
+
+---
+
+### Otros Proyectos
 
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
